@@ -1,8 +1,4 @@
-# Educational Game - Sustainable Future for All in Europe
-
-Acest proiect este un joc 2D interactiv și educațional dezvoltat în C++ folosind framework-ul [Raylib](https://www.raylib.com/). A fost creat în cadrul proiectului internațional **"Gender, Digitalization, Green - Ensuring a Sustainable Future for all in Europe"** (Cod referință: 2023-1-RO01-KA220-HED-000154433).
-
-## Descrierea Jocului
+# Descrierea Jocului
 Scopul jocului este de a educa utilizatorii despre sustenabilitate, schimbări climatice, energii regenerabile și legislația de mediu a Uniunii Europene, printr-o experiență interactivă sub formă de labirint.
 
 Jucătorul controlează un personaj care explorează harta, adună comori, luptă cu inamici și rezolvă chestionare pentru a progresa. 
@@ -21,20 +17,6 @@ Jucătorul controlează un personaj care explorează harta, adună comori, lupt�
 * **C:** Afișează/Ascunde răspunsul corect la întrebări
 * **P:** Pauză
 * **Sus/Jos:** Scroll în paginile de meniu și pentru selectarea răspunsului
-
-## Credite
-Acest proiect implică un parteneriat între mai multe universități:
-* Universitatea de Științe Agricole și Medicină Veterinară (București, România)
-* Universitatea Națională de Știință și Tehnologie POLITEHNICA (București, România)
-* Universitat Autonoma de Barcelona (Spania)
-* Universidade do Porto (Portugalia)
-* Uzhgorodskyi Nacionalnyi Universitet (Ucraina)
-
-**Realizat de studenții:**
-Voicu Alexandru, Duță George, Halca Anna, Marinescu Doru, Oprea Ioana Antonia.
-
-**Profesori coordonatori:** 
-Mihai Caramihai, Daniel Chiș.
 
 ## Cum se rulează?
 (Proiectul include un executabil deja compilat pentru Windows, plus biblioteca dinamică necesară).
